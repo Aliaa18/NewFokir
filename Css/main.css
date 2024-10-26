@@ -56,6 +56,9 @@ a {
 .aspect-ratio{
   aspect-ratio: 16/9;
 }
+body{
+  margin: 0;
+}
 
 /*--------------- End Global--------------*/
 
@@ -179,7 +182,7 @@ a {
   opacity: 1;
 }
 #about .about-images .image .layer ul{
-  
+  width: 45%;
   position: absolute;
   top: 50%;
   left: 50%;
